@@ -19,6 +19,7 @@ public class Prueba1 {
         System.out.println("Rommy");
         System.out.println("Jefazo");
         System.out.println("Bagheera");
+        System.out.println("Bagheera 2.0");
     }
     
 }
