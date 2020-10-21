@@ -30,3 +30,9 @@ __________
 | nombre | apellido |
 | ------|-----|
 | Daniela | Cahuantzi |
+
+## Citas
+>esto es una cita
+texto normal
+>esto es otra cita
+
