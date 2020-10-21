@@ -21,3 +21,9 @@ Underline 2
 
 # Imagenes
 ![Logo github](https://hipertextual.com/files/2020/04/hipertextual-github-equipos-ahora-es-totalmente-gratis-2020680731.jpg)
+
+# Tablas
+| Nombre | Apellido |
+| ------ | -------- |
+| Maxi   | Burgos   |
+| Tomas  | Tompson  |
