@@ -12,3 +12,5 @@ __________
 
 - formato *cursiva* de la primera forma
 - formato _cursiva_ de la segunda forma
+- formato **negrita**
+- formato __negrita2__
