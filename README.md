@@ -14,3 +14,4 @@ __________
 - formato _cursiva_ de la segunda forma
 - formato **negrita**
 - formato __negrita2__
+- formato ~~sub~~
