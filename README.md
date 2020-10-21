@@ -6,8 +6,8 @@ Underline 1
 ---------
 Underline 2
 ============
--formato *italica* de la primera forma
--formato _italica_ de la segunda forma
--formato **bold** 
--formato __bold__
--formato ~~tachado~~ 
+- formato *italica* de la primera forma
+- formato _italica_ de la segunda forma
+- formato **bold** 
+- formato __bold__
+- formato ~~tachado~~ 
