@@ -33,3 +33,15 @@ Underline 2
 esto es un texto cualquiera
 
 >esto es otra cita
+
+#Lineas divisorias
+guiones medios
+
+---
+asteriscos
+
+***
+
+guiones bajos
+___
+
