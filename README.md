@@ -25,3 +25,7 @@ __________
 
 ## Imagen
 ![Logo proyecto](https://static.nationalgeographicla.com/files/styles/image_3200/public/01-cat-questions-nationalgeographic_1228126.jpg?w=1600&h=900)
+
+## Tabla
+| nombre | apellido |
+| Daniela | Cahuantzi |
