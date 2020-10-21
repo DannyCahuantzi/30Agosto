@@ -9,3 +9,6 @@ __________
 Underline 2
 __________
 # Hola
+
+- formato *cursiva* de la primera forma
+- formato _cursiva_ de la segunda forma
