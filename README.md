@@ -27,3 +27,9 @@ Underline 2
 | ------ | -------- |
 | Maxi   | Burgos   |
 | Tomas  | Tompson  |
+
+# Citas
+>esto es una cita
+esto es un texto cualquiera
+
+>esto es otra cita
