@@ -11,3 +11,7 @@ Underline 2
 - formato **bold** 
 - formato __bold__
 - formato ~~tachado~~ 
+
+1. item ordenado
+2. item uno
+3. item dos
